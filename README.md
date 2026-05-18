@@ -75,3 +75,7 @@ La versión final se marcará con el tag v1.0.0.
 ## Notas adicionales
 
 Esta API fue creada como práctica para comprender el flujo de trabajo Git Flow usando ramas feature, release y hotfix.
+
+## Estado del proyecto
+
+La versión 1.0.0 corresponde a la primera versión estable de la práctica Git Flow.

@@ -24,6 +24,7 @@ npm install
 ~~~
 
 ## Uso
+> Nota temporal: documentación en proceso.
 
 Levantar el servidor local:
 
@@ -69,3 +70,7 @@ Durante la práctica se usará Git Flow:
 - hotfix/readme-typo: rama para corregir un error menor.
 
 La versión final se marcará con el tag v1.0.0.
+
+## Notas adicionales
+
+Esta API fue creada como práctica para comprender el flujo de trabajo Git Flow usando ramas feature, release y hotfix.

@@ -56,7 +56,8 @@ http://localhost:3000/api/estado
 
 ## Autores
 
-- Juan Camilo Liberato - Desarrollo y práctica Git Flow
+Karla Lautero - Desarrollo de la práctica Git Flow
+- Curso Ingeniería de Software
 
 ## Flujo de trabajo Git
 
